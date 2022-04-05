@@ -9,7 +9,7 @@ A quiz app that pulls questions from a database with over 3000 questions.
 
 Features:
 - Easy to use GUI
-- Able to pull from a 3000+ question database
+- Able to pull from a 3000+ question database using Open Trivia DB API
 - Gives feedback about chosen answer through dynamic color coded screen changes
 - Live display of user score
 - Other basic functionality like right/wrong GUI inputs and screen clear/reset/update methods 
