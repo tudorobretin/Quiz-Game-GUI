@@ -1,5 +1,5 @@
 # Quiz App
-A quiz app that pulls questions from a database with over 3000 questions.
+A fun trivia app that tests your knowledge on various topics ranging from cars to computers and more.
 
 ## Features and used concepts:
 
